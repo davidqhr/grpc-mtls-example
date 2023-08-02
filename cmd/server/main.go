@@ -11,7 +11,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/islishude/grpc-mtls-example/greet"
+	"github.com/davidqhr/grpc-mtls-example/greet"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 	"google.golang.org/grpc/peer"
